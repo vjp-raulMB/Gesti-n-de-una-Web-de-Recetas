@@ -1,2 +1,3 @@
 Colores: blanco y verde
 Fondo: crema claro
+Banner: imagen de portada pendiente
